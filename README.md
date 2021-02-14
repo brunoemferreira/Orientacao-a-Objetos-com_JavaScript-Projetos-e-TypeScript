@@ -1,8 +1,14 @@
 
 # Curso : Orientação a Objetos com JavaScript ( Projetos e TypeScript )
 
-Curso Iniciado em : 13/02/2021
-Curso Finalizado em : 00/00/0000
+<!-- ************************************* Baadges ********************************************* -->
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/brunoemferreira/Orientacao-a-Objetos-com_JavaScript-Projetos-e-TypeScript?color=%2304D361">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/brunoemferreira/Orientacao-a-Objetos-com_JavaScript-Projetos-e-TypeScript">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/Orientacao-a-Objetos-com_JavaScript-Projetos-e-TypeScript">
+</p>
+
+<p align="center">Curso Iniciado em : 13/02/2021 - 00/00/0000</p>
 
 ## 🚀 Sobre o Curso
 
