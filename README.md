@@ -1,4 +1,13 @@
 
+<!-- ************************************* logo ********************************************* -->
+<div align="center"> 
+
+<img src="./images/logo.png" width="900px" >
+
+</div>
+
+</br>
+
 # Curso : Orientação a Objetos com JavaScript ( Projetos e TypeScript )
 
 <!-- ************************************* Baadges ********************************************* -->
@@ -78,4 +87,10 @@ no arquivo html faz a impressão via console do navegador Chrome a mensagem "Tes
 
 * [Matheus Battisti](https://www.linkedin.com/in/matheusbattisti/) - Instrutor
 
-* [Orientação a Objetos com JavaScript (Projetos e TypeScript)](https://www.udemy.com/course/orientacao-a-objetos-com-javascript-projetos-e-typescript/) - Curso do Udemy
+<div align="left">
+
+<img src="images/curso.png" alt="Imagem do Curso"/>
+
+</div>
+
+[Orientação a Objetos com JavaScript (Projetos e TypeScript)](https://www.udemy.com/course/orientacao-a-objetos-com-javascript-projetos-e-typescript/) - Curso do Udemy
