@@ -21,42 +21,42 @@
 
 ## 🚀 Sobre o Curso
 
-### Seção 1 - Introdução
+### *Seção 1 - Introdução*
 
-**1 - O que é Orientação a Objetos ?** 
+_**1 - O que é Orientação a Objetos ?**_ 
 - Um paradigma de programação baseado em objetos;
 - Onde os objetos interagem entre si;
 
- **2 - E o objeto é uma instância de uma classe;**
+_**2 - E o objeto é uma instância de uma classe;**_
 - Auxilia no reaproveitamento de código;
 - Torna o código menos confuso em relação ao procedural;
 - Design Patterns; ( Padrões de Código )
 
- **3 - OO x mundo Real**
+_**3 - OO x mundo Real**_
 - Uma **classe** Carro **representa todos os carros do mundo**;
 - Porém **cada carro se distingue do outro**, sendo assim eles **são objetos**;
 - Tendo **características** ( **propriedades** ) e funcionalidades próprias ( **métodos** );
 - O Carro pode ter 4 ou 2 portas ( **propriedades** );
 - Podemos acelerar ou frear com o Carro( **Métodos** );
 
- **4 - OO e JavaScript**
+_**4 - OO e JavaScript**_
 - JavaScript **não** é uma linguagem baseada em classes;
 - Porém podemos utilizar a OOP nela;
 - Na versão ES2015 foi inserida a funcionalidade de Classe no JS;
 - **JS possui Prototypes**, isso faz com que **todos os objetos tenham um pai**;
 - Além dos seus objetos built-in como : Number, Boolean, Array, Object, Error e tc...
 
-**5 - Fazendo download do VSCode( editor de texto utilizado no curso )**
+_**5 - Fazendo download do VSCode( editor de texto utilizado no curso )**_
 
-**6 - Como executar JS no navegador por arquivo**
+_**6 - Como executar JS no navegador por arquivo**_
 - Foi desenvolvido um exemplo, que a partir de um arquivo index.html e um arquivo script.js instanciado 
 no arquivo html faz a impressão via console do navegador Chrome a mensagem "Testando o JavaScript". 
 
-**7 - Como executar o JS diretamente no navegador**
+_**7 - Como executar o JS diretamente no navegador**_
 
-**8 - Outra forma de programar em JavaScript**
+_**8 - Outra forma de programar em JavaScript**_
 
-**9 - Como pesquisar problemas/ dúvidas de código no Stackoverflow**
+_**9 - Como pesquisar problemas/ dúvidas de código no Stackoverflow**_
 
 **[12 - Arquivos do Curso](documents/js_oop_curso-master.zip)**
 
