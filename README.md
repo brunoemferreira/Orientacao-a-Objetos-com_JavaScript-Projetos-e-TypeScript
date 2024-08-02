@@ -17,7 +17,7 @@
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/brunoemferreira/Orientacao-a-Objetos-com_JavaScript-Projetos-e-TypeScript">
 </p>
 
-<p align="center">Curso Iniciado em : 13/02/2021 - 00/00/0000</p>
+<p align="center">Curso Iniciado em : 01/08/2024 - 00/00/0000</p>
 
 ## 🚀 Sobre o Curso
 
